@@ -1,7 +1,5 @@
 # torrent-to-colab
-Direct download torrent files to google colab
-
-This code is intented to download legal torrent files to google colab.
+Direct download torrent files to google colab.
 
 You can choose what folders to download from the .torrent file.
 
